@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://geekmoon.xyz/"/>
-  <updated>2018-08-19T12:47:05.175Z</updated>
+  <updated>2018-08-19T12:56:02.584Z</updated>
   <id>https://geekmoon.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的日志-001</title>
-    <link href="https://geekmoon.xyz/2018/08/19/%E6%88%91%E7%9A%84%E6%97%A5%E5%BF%97-001/"/>
-    <id>https://geekmoon.xyz/2018/08/19/我的日志-001/</id>
+    <title>日志18-08-19</title>
+    <link href="https://geekmoon.xyz/2018/08/19/%E6%97%A5%E5%BF%9718-08-19/"/>
+    <id>https://geekmoon.xyz/2018/08/19/日志18-08-19/</id>
     <published>2018-08-19T12:45:39.000Z</published>
-    <updated>2018-08-19T12:47:05.175Z</updated>
+    <updated>2018-08-19T12:56:02.584Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,7 @@
       <category term="我的日志" scheme="https://geekmoon.xyz/categories/%E6%88%91%E7%9A%84%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="我的日志" scheme="https://geekmoon.xyz/tags/%E6%88%91%E7%9A%84%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="https://geekmoon.xyz/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   

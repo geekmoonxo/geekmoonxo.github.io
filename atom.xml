@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://geekmoon.xyz/"/>
-  <updated>2018-08-19T12:18:46.519Z</updated>
+  <updated>2018-08-19T12:30:08.076Z</updated>
   <id>https://geekmoon.xyz/</id>
   
   <author>
@@ -21,40 +21,56 @@
     <link href="https://geekmoon.xyz/2018/08/19/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
     <id>https://geekmoon.xyz/2018/08/19/时间管理/</id>
     <published>2018-08-19T12:18:46.000Z</published>
-    <updated>2018-08-19T12:18:46.519Z</updated>
+    <updated>2018-08-19T12:30:08.076Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="时间管理" scheme="https://geekmoon.xyz/categories/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="个人管理" scheme="https://geekmoon.xyz/tags/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Hexo教程</title>
-    <link href="https://geekmoon.xyz/2018/08/19/%E6%88%91%E7%9A%84%E6%95%99%E7%A8%8B/Hexo%E6%95%99%E7%A8%8B/"/>
-    <id>https://geekmoon.xyz/2018/08/19/我的教程/Hexo教程/</id>
+    <link href="https://geekmoon.xyz/2018/08/19/Hexo%E6%95%99%E7%A8%8B/"/>
+    <id>https://geekmoon.xyz/2018/08/19/Hexo教程/</id>
     <published>2018-08-19T12:18:26.000Z</published>
-    <updated>2018-08-19T12:18:26.125Z</updated>
+    <updated>2018-08-19T12:28:53.983Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="我的教程" scheme="https://geekmoon.xyz/categories/%E6%88%91%E7%9A%84%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Hexo教程" scheme="https://geekmoon.xyz/tags/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="我的教程" scheme="https://geekmoon.xyz/tags/%E6%88%91%E7%9A%84%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>MarkDown教程</title>
-    <link href="https://geekmoon.xyz/2018/08/19/%E6%88%91%E7%9A%84%E6%95%99%E7%A8%8B/MarkDown%E6%95%99%E7%A8%8B/"/>
-    <id>https://geekmoon.xyz/2018/08/19/我的教程/MarkDown教程/</id>
+    <link href="https://geekmoon.xyz/2018/08/19/MarkDown%E6%95%99%E7%A8%8B/"/>
+    <id>https://geekmoon.xyz/2018/08/19/MarkDown教程/</id>
     <published>2018-08-19T12:18:07.000Z</published>
-    <updated>2018-08-19T12:18:07.097Z</updated>
+    <updated>2018-08-19T12:29:25.268Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="我的教程" scheme="https://geekmoon.xyz/categories/%E6%88%91%E7%9A%84%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="我的教程" scheme="https://geekmoon.xyz/tags/%E6%88%91%E7%9A%84%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="MarkDown教程" scheme="https://geekmoon.xyz/tags/MarkDown%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
